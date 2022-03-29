@@ -3,7 +3,7 @@
 
 ---
 
-### Contact information:
+### Contact information
 
 **Location:** Minsk, Rebuplic of Belarus <br>
 **Phone:** [+375 29 696-62-94](tel:+375296966294) <br>
@@ -13,7 +13,16 @@
 
 ---
 
-### Skills and Proficiency:
+### Summary
+I’m currently working several web projects at Beltelecom.
+My goal is to learn everything new and exciting.
+I love to code and design.
+I can spend a lot of time doing what interests me.
+My core strengths are in problem solving and fast learning.
+
+---
+
+### Skills and Proficiency
 
 - JavaScript, HTML, CSS, SCSS
 - PHP, Java _(basic knowledge)_
@@ -25,7 +34,7 @@
 
 ---
 
-###Code Example:
+### Code Example
 
 ```
 function _async(g) {
@@ -41,21 +50,26 @@ function _async(g) {
 
 ---
 
-###Education:
+### Experience
+- Frontend Developer at Beltelecom _(since 2020)_
+
+---
+
+### Education
 
 **Belarusian State University of Informatics and Radioelectronics** <br>
 Faculty of Computer Design
 
 ---
 
-###Courses:
+### Courses
 
 - IT Academy Course «JavaScript»
 - RS Schools Course «JavaScript/Front-end. Stage 1» _(in progress)_
 
 ---
 
-### Languages:
+### Languages
 
 - Russian \- Native
 - English \- A2 _(B1 in progress…)_
