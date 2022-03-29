@@ -16,7 +16,7 @@
 ### Skills and Proficiency:
 
 - JavaScript, HTML, CSS, SCSS
-- PHP, Java (basic knowledge)
+- PHP, Java _(basic knowledge)_
 - SQL, MySQL, Microsoft SQL Server
 - UX/UI, Figma, Sketch, Adobe Photoshop
 - Search engine optimization, Google Ads
@@ -25,7 +25,37 @@
 
 ---
 
+###Code Example:
+
+```
+function _async(g) {
+    let iterator;
+    function doAsync(...arg) {
+        iterator = iterator || g(...arg);
+        let result = iterator.next(...arg);
+        return result.done ? result.value : Promise.resolve(result.value).then(doAsync);
+    }
+    return doAsync;
+}
+```
+
+---
+
+###Education:
+
+**Belarusian State University of Informatics and Radioelectronics** <br>
+Faculty of Computer Design
+
+---
+
+###Courses:
+
+- IT Academy Course «JavaScript»
+- RS Schools Course «JavaScript/Front-end. Stage 1» _(in progress)_
+
+---
+
 ### Languages:
 
-- English \- B1
 - Russian \- Native
+- English \- A2 _(B1 in progress…)_
